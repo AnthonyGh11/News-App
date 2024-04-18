@@ -1,7 +1,7 @@
-# news_app_ui_setup
+# news_app
 
-A new Flutter project.
-
+It is a project about showing news around the world.
+You'll be first shown the general page, with a category section where you can choose the news category that suits you, and under it there is a list view where general news are shown.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
